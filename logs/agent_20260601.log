@@ -1,0 +1,11 @@
+2026-06-01 15:57:29,682 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-06-01 15:57:29,683 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你好
+2026-06-01 15:57:43,332 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-06-01 15:57:43,332 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 都什么燕大哥扫地机器人啊
+2026-06-01 15:57:48,208 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-06-01 15:57:48,208 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '主流扫地机器人品牌推荐 选购指南'}
+2026-06-01 15:57:52,031 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-06-01 15:57:53,348 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-06-01 15:57:53,348 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 主流扫地机器人品牌包括科沃斯、石头、云鲸、小米和追觅。选购时应关注导航技术（如LDS激光导航或视觉导航）、吸力大小、电池续航、智能避障能力、是否支持自动集尘或自动洗拖布功能，以及与智能家居系统的兼容性。根据使用面积、地面类型和预算选择合适型号。
+2026-06-01 17:36:03,504 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-06-01 17:36:03,504 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你好
